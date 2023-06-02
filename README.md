@@ -7,7 +7,7 @@ The answer for this is not straight forward.
 
 The reason is:  
 Regression algorithm produce continuous numeric output  
-Binary Classification Algorithm produce Yes/No, Pass/Fail type binary answers  
+Binary Classification Algorithm produce **Yes/No, Pass/Fail** type binary answers  
 Multi-class classification algorithms produce one of many possible known outcomes.  
 
 So, we need to use appropriate methods based on the type of data predicted: continuous, binary and categorical  
@@ -15,6 +15,8 @@ So, we need to use appropriate methods based on the type of data predicted: cont
 Provided Sample Notebooks and Data sets compare performance of four different models and rank them.  
 
 For Regression, we use Plots, Residual Histograms and RMSE Metric   
-For Binary Classification, we use Plots, Confusion Matrix, and Metrics like Precision, Recall, Accuracy, F1 Score, AUC Score and so forth  
-For Multiclass Classification, we use Plots, Confusion Matrix, Different ways to average class level metrics into model level metrics  
+For Binary Classification, we use ***Plots, Confusion Matrix, and Metrics like Precision, Recall, Accuracy, F1 Score, AUC Score and so forth***
+For Multiclass Classification, we use ***Plots, Confusion Matrix, Different ways*** to average class level metrics into model level metrics  
+
+![image](https://github.com/AICODER009/performance_evaluation/assets/133597851/19cc1c3e-fa78-493d-a7e2-69539ac2d9e7)
 
